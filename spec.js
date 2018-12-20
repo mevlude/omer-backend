@@ -6,7 +6,7 @@ var cn = {
     user: 'postgres',
     password:'abc'
 };
-
+//this is comment
 var db = pgp(cn);
 
 var arr = [];
